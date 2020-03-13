@@ -1,5 +1,14 @@
 # MNIST encoder-decoder
 A encoder-decoder system that encode mnist(28x28)image to 16-dimension vector and decode it.
+
+## Model structure
+### Encoder
+![](./model_encoder.png)
+
+### Decoder
+![](./model_decoder.png)
+
+
 ## Result
 
 ### Original image
